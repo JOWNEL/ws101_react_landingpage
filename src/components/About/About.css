@@ -1,0 +1,30 @@
+
+#About{
+    background:#f2f2f2;
+    
+    
+    height: auto;
+    width: 100%;
+   
+    
+    color: #000000;
+    font-size: 40px;
+    text-align: left;
+    padding-top: 65px;
+    
+    
+  }
+
+.about1{
+
+  font-size: 75%;
+}
+.img1 .img2 .img3 .img4 .img5.jpg{
+  width: 400px;
+    height: 250px;
+}
+
+.about2{
+
+  text-align: center;
+}
